@@ -204,7 +204,7 @@ desktop_environments = [
     DesktopEnvironment('/usr/bin/river', 'river'),
     DesktopEnvironment('/usr/bin/nimdow', 'nimdow'),
     DesktopEnvironment('/usr/bin/wayfire', 'wayfire'),
-    DesktopEnvironment('/usr/local/bin/arcolinux-autostart-dusk', 'dusk'),
+    DesktopEnvironment('/usr/local/bin/forgeinux-autostart-dusk', 'dusk'),
     DesktopEnvironment('/usr/bin/run-niri', 'niri'),
 ]
 
