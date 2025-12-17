@@ -1,10 +1,10 @@
 # Maintainer: Erik Dubois <erik.dubois@gmail.com>
-pkgname=forge-linux-Calamares-config
-_pkgname=forge-linux-Calamares-config
+pkgname=forge-linux-calamares-config
+_pkgname=forge-linux-calamares-config
 _destname1="/etc"
 _destnamescript="/usr/bin"
 pkgver=25.12
-pkgrel=07
+pkgrel=09
 pkgdesc="calamares config for forgelinux"
 arch=('any')
 url="https://github.com/forgelinux/${_pkgname}"
