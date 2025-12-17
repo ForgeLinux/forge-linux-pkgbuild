@@ -1,13 +1,13 @@
 # Maintainer: Erik Dubois <erik.dubois@gmail.com>
-pkgname=buildra-system-installation
-_pkgname=buildra-system-installation
+pkgname=forge-linux-system-installation
+_pkgname=forge-linux-system-installation
 _destname1="/etc"
 _destname2="/usr"
-pkgver=25.06
-pkgrel=03
-pkgdesc="system installation config for buildra"
+pkgver=25.12
+pkgrel=01
+pkgdesc="system installation config for forgelinux"
 arch=('any')
-url="https://github.com/buildra/${_pkgname}"
+url="https://github.com/forgelinux/${_pkgname}"
 license=('GPL3')
 makedepends=('git')
 depends=()

@@ -1,13 +1,15 @@
 # Maintainer: Erik Dubois <erik.dubois@gmail.com>
-pkgname=forgelinux-calamares-config
-_pkgname=forgelinux-calamares-config
+pkgname=forge-linux-Calamares-config
+_pkgname=forge-linux-Calamares-config
 _destname1="/etc"
 _destnamescript="/usr/bin"
 pkgver=25.12
-pkgrel=02
+pkgrel=07
 pkgdesc="calamares config for forgelinux"
 arch=('any')
 url="https://github.com/forgelinux/${_pkgname}"
+# https://github.com/ForgeLinux/${_pkgname}
+# https://github.com/ForgeLinux/forge-linux-Calamares-config.git
 license=('GPL3')
 makedepends=('git')
 depends=()

@@ -68,7 +68,7 @@ pwdpath=$(echo $PWD)
 pwd=$(basename "$PWD")
 
 search1=$(basename "$PWD")
-search2=forgeinux
+search2=forgelinux
 search=$search1
 
 # choice 1 = chroot"
